@@ -1,0 +1,16 @@
+# Never commit firmware images or vendor packages
+TBT.bin
+*.exe
+*.bin
+!probe/*.bin
+refs/
+
+# Build products
+build/
+extract/
+tools/
+__pycache__/
+*.o
+*.elf
+*.ihx
+*.pyc

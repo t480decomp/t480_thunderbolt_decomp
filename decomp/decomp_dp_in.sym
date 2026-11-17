@@ -1,0 +1,3 @@
+# names derived from access-pattern analysis (INFERRED, see DECOMP.md)
+EXTMEM 0x0125 Q_HEAD
+EXTMEM 0x0127 Q_BUF
